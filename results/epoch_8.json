@@ -1,0 +1,7 @@
+{
+  "in_distribution_k3": 0.1115,
+  "no_carry_k3": 0.116,
+  "single_carry_k3": 0.1165,
+  "multi_carry_k3": 0.1215,
+  "length_generalization_k4": 0.0
+}

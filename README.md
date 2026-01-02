@@ -1,5 +1,5 @@
 # Transformer Addition
-This repo trains a small causal Transformer from scratch to add two base-10 integers and evaluates generalization.
+This repo trains a small causal Transformer to add two base-10 integers and evaluates learning and generalization across different datasets.
 
 ## Training
 Configure the run in config/config.yaml (e.g., model size, epochs, batch size).
